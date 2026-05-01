@@ -56,7 +56,7 @@ A retail company wants to understand customer purchasing behavior to improve sal
 
 ## 📸 Screenshots
 
-[![KPI Summary](https://github.com/naveenupward/retail-customer-behavior-analytics/raw/main/screenshots/Summary.png)]
+![KPI Summary](https://github.com/naveenupward/retail-customer-behavior-analytics/raw/main/screenshots/Summary.png)
 ---
 
 ## 📂 Repository Structure
