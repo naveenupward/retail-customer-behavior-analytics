@@ -30,7 +30,6 @@ A retail company wants to understand customer purchasing behavior to improve sal
 | 1️⃣ Data Loading & EDA | Python (Pandas) | Load, clean, explore raw data |
 | 2️⃣ Business Analysis | SQL | Solve business problems with queries |
 | 3️⃣ Dashboard | Power BI | Visualize insights interactively |
-| 4️⃣ Documentation | Project Report | Professional write-up |
 
 ---
 
